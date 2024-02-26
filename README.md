@@ -1,6 +1,6 @@
 # GStreamer
 
-This is GStreamer, a framework for streaming media.
+This is GStreamer, a framework for streaming media. Used to stream media.
 
 ## Where to start
 
